@@ -63,7 +63,7 @@ Sistem menyediakan 3 format laporan terstruktur yang siap dicetak maupun diekspo
 
 ## 🚀 Cara Menjalankan Proyek
 1. Pastikan perangkat telah terinstal **Microsoft Access** (versi 2016 atau lebih baru).
-2. Unduh file `Petalya_Hotel.accdb` dari folder [`/database`](database/Petalya_Hotel.accdb).
+2. Unduh file `Petalya_Hotel.accdb` dari folder [`/database`]
 3. Buka file tersebut dan klik **Enable Content** pada bilah peringatan keamanan di bagian atas agar seluruh *Form*, *Subform*, dan *Report* dapat berjalan normal.
 
 ---
